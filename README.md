@@ -65,7 +65,7 @@ $ npm run serve
 
 
 
-![image-20210410230338519](README.assets/image-20210410230338519.png)
+![image-20210410230338519](README.assets/image-20210410230338519.png){: width="100" height="100}
 
 #### - 메인페이지
 
