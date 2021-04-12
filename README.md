@@ -62,11 +62,14 @@ $ npm run serve
 
 ## 기능
 
-#### - 로그인 및 회원가입
+#### 로그인 및 회원가입
 
+- 카카오 회원가입 이용 (카카오 프로필 이미지, 닉네임 활용)
+- 사장님, 고객님 나눠서 목적에 따라 회원가입 분리
 
+![image-20210410230338519](README.assets/image-20210410230338519.png){: width="10px" height="10px"}
 
-![image-20210410230338519](README.assets/image-20210410230338519.png)
+![회원가입](ezgif.com-gif-maker.gif){: width="10px" height="10px"}
 
 #### - 메인페이지
 
