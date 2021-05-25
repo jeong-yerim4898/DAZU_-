@@ -65,7 +65,7 @@ $ npm run serve
 - **카카오 회원가입** 이용 (카카오 프로필 이미지, 닉네임 활용)
 - 사장님, 고객님 나눠서 목적에 따라 회원가입 분리
 
-<img src="README.assets/image-20210410230338519.png" alt="image-20210410230338519" style="width:500px" /><img src="README.assets/image-20210413000611804.png" alt="image-20210413000611804" style="width:500px" />
+<img src="README.assets/image-20210410230338519.png" alt="image-20210410230338519" style="width:300px" /><img src="README.assets/image-20210413000611804.png" alt="image-20210413000611804" style="width:300px" />
 
 #### 메인페이지
 
